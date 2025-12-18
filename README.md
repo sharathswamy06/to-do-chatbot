@@ -37,15 +37,15 @@ The system should be easy to use, interactive, and lightweight, making it suitab
 *  Uses enumerate() to number tasks
 *  Error handling ensures invalid inputs do not crash the program
 *   Clean command-based interaction (add, show, done, exit)
-## 4. Innovation
+## 5. Innovation
 *  Chatbot-style interaction instead of traditional menu-driven programs
 *  Visual task status using emojis (✅ / ❌)
 *  Beginner-friendly design with clear commands
 *  Modular methods improve readability and future extensibility
-## 5. sample output
+## 6. sample output
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/9170a2e0-de85-40a7-8217-c8b7bdebe0ea" />
 
-## 6. Challenges Faced
+## 7. Challenges Faced
 * Handling invalid user inputs gracefully
 *  Managing task indexing (user input vs list index)
 *  Keeping the chatbot responsive and error-free
@@ -55,7 +55,7 @@ The system should be easy to use, interactive, and lightweight, making it suitab
 
 These challenges were addressed using exception handling, input validation, and structured programming. 
 
-## 7. Conclusion
+## 8. Conclusion
 The Simple To-Do List Chatbot successfully demonstrates how Python can be used to build an interactive, real-world application using basic programming concepts. This project strengthens understanding of:
 * Object-Oriented Programming
 * Lists and dictionaries
